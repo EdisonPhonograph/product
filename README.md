@@ -1,6 +1,9 @@
 # Edison Phonograph Plus
 The phonograph was invented in 1877 by Thomas Edison. It's due for an update. How about we hook-up an Intel Edison to a vinyl record player and bring some WiFi to the HiFi.
 
+Intel Project Page (but I accidently submitted it, so waiting to here if that can be undone):
+https://iotroadshow.intel.com/en/teams/project/8
+
 ## Background on the Problem
 The inspiration for this project came from my personal problem of wanting to wirelessly stream the audio from my record player in my living room to multiple rooms around the house and/or outside. With the release of the Chromecast Audio, one can now stream an mp3 URL to multiple rooms in sync for a cost of a Chromecast Audio ($35/piece) and some hacking.
 
@@ -22,16 +25,3 @@ With the Edison now nearby the record player, there's a whole world of possbilit
 - We could make it super-simple to export samples of a track from a record in real-time using an app to start/stop the sample points and save it locally or in the cloud.
 
 - Any much, much more...
-
-## Sensors That Could Be Useful
-#### Home Automation
-Encoder, Smart Relay, Infrared Reflective Sensor
-
-#### Environment and Agriculture
-Dust Sensor, Dry Reed Relay, LED Bar
-
-#### Transportation and Safety
-PIR Motion Sensor, Touch Sensor, Infrared Reflective Sensor, IR Distance Interrupter
-
-#### Robotics
-Hall sensor, Single Axis Analog Gyro, IR Distance Interrupter, Gear Stepper Motor with Driver, MOSFET, Dry Reed Relay
