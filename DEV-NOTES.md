@@ -24,3 +24,7 @@ Below are libraries and APIs that could be useful for us --
 
 ### Linux 
 - Darkice & Icecast [https://stmllr.net/blog/live-mp3-streaming-from-audio-in-with-darkice-and-icecast2-on-raspberry-pi/]
+- ZeroConf / Bonjour Service Discovery [http://www.dodgycoder.net/2015/02/setting-up-bonjourzeroconfmdnsnsd.html]
+
+### Android
+- Service Discovery [https://developer.android.com/training/connect-devices-wirelessly/nsd.html]
