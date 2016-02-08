@@ -20,8 +20,8 @@ With the Edison now nearby the record player, there's a whole world of possbilit
 
 - We could use sensors to detect the angle of the tonearm to determine how far into the record you are.
 
-- We could let you a scratch-effect live from an app or capacitive touch without having to really scratch your records.
+- We could let you add a scratch-effect live from an app or capacitive touch without having to really scratch your records.
 
 - We could make it super-simple to export samples of a track from a record in real-time using an app to start/stop the sample points and save it locally or in the cloud.
 
-- Any much, much more...
+- And much, much more...
