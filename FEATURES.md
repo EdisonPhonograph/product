@@ -12,6 +12,8 @@ List of features:
 - Cloud Provider
 - Discogs?
 
+## Android App to see state and control
+
 ## Detect Arm Position ##
 - Some sort of sensor(s)
 
